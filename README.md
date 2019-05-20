@@ -1,2 +1,2 @@
 # leetcode
-my leetcode submission
+My leetcode java submissions
